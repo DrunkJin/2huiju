@@ -1,8 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=FFBCD9&height=300&section=header&text=2huiju&fontSize=90)
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=2huiju&fontSize=90)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2huiju&show_icons=true&theme=blue)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2huiju&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2huiju&layout=compact)](https://github.com/2huiju/github-readme-stats)
 
 
 
