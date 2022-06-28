@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=2huiju&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2huiju&show_icons=true&theme=dracula)
 
